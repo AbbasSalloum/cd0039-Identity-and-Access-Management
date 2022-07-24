@@ -9,6 +9,7 @@ from urllib.request import urlopen
 AUTH0_DOMAIN = 'udacitypro.us.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'image'
+CLIENT_ID='2i3OuUh5B0zZkSxOjqYtLrSOQ5McGSc2'
 
 ## AuthError Exception
 '''
